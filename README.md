@@ -1,11 +1,11 @@
 <h2>Hi 👋, I'm Talha (A passionate MERN Stack Developer)</h2>
 <p>👋 A seasoned Software Engineer with over 3 years of experience. Over the years, I've contributed to various projects, including e-commerce platforms, custom CMS, healthcare solutions, fintech applications, and chatbots. I am passionate about building scalable and efficient web applications and eager to tackle new challenges. Let's build something amazing together!
 </p>
-- 🌱 I’m currently learning **Vuejs**.
+- 🌱 I’m currently learning **Vuejs**
 
-- 💬 Ask me about **Reactjs, Nextjs, Redux, MERN, Front-end Development**.
+- 💬 Ask me about **Reactjs, Nextjs, Redux, MERN, Front-end Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://talhas-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://talhawahid.vercel.app)
 
 - ⚡ Fun fact **Coffee: Because no great story ever started with a salad.**
 
